@@ -4,7 +4,7 @@
 
 <html>
 <head>
-<title>Model2 MVC Shop</title>
+<title>지스리 존예</title>
 
 <link href="/css/left.css" rel="stylesheet" type="text/css">
 
